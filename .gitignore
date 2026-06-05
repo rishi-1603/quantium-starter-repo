@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+quantium-starter-repo/
+formatted_output.csv
+python
